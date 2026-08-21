@@ -1,0 +1,6 @@
+{
+  "name": "Breakfast in Bed LX",
+  "description": "Cinematic Lisbon breakfast hospitality experience delivered to hotels & Airbnbs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
